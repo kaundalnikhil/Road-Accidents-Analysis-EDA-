@@ -5,11 +5,10 @@ Dataset Overview: This dataset contains information about road accidents that oc
 in United Kingdom in the year 2022. A total of number of 61,3152 accidents are listed in
 this dataset. 
 
+Data source: This dataset was collected from Kaggle website https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022
+
 Objectives of EDA : The objectives of performing EDA on this dataset is
 •	To get a understanding of the data.
 •	To identify pattern and trends in the data.
 •	To use data visualization techniques  like histograms, box plots, and 	heatmaps to represent data visually.
 •	To develop  hypothesis which can be further tested for a  more targeted data 	analysis.
-
-Data source: This dataset was collected from Kaggle website https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022
-![image](https://github.com/kaundalnikhil/Road-Accidents-Analysis-EDA-/assets/94811491/85398cd6-9256-4aa8-8b85-0de78ae4cfb7)
