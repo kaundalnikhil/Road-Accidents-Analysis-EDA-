@@ -5,8 +5,4 @@ Dataset Overview: This dataset contains information about road accidents that oc
 
 Data source: This dataset was collected from Kaggle website https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022
 
-Objectives of EDA : The objectives of performing EDA on this dataset is:.
-To get a understanding of the data.
-To identify pattern and trends in the data.
-To use data visualization techniques  like histograms, box plots, and 	heatmaps to represent data visually.
-To develop  hypothesis which can be further tested for a  more targeted data 	analysis.
+
